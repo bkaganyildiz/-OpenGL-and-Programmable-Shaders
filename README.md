@@ -9,15 +9,25 @@ camera will have a gaze direction, which will be modeled by two angles for pitch
 Some of the keyboard shortcuts : 
 
 'q' keyboard key disable the texture color 
+
 'e' keyboard key enable the texture color 
+
 'w,a,s,d' keyboard key rotation 
+
 'u' keyboard key speed up 
+
 'j' keyboard key speed down 
+
 'x' keyboard key stop walkthrough 
+
 'o' keyboard key increase height factor 
+
 'l' keyboard key decrease height factor 
+
 't' keyboard key enables the polygonMode on 
-'g' keyboard key disables the polygonMode    
+
+'g' keyboard key disables the polygonMode  
+
 
 Some of the inputs and their outputs : 
 
