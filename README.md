@@ -6,6 +6,18 @@ Phong shading and texture mapping together.
 I have implemented a camera flight mode to be able to fly over the visualized terrain. The
 camera will have a gaze direction, which will be modeled by two angles for pitch and yaw.
 
+In order to run successfully clone or download it as zip : 
+
+open zip
+
+cd -OpenGL-and-Programmable-Shaders 
+
+tar -xzvf glm.tar.gz
+
+make 
+
+./hw3 <path of your image > 
+
 Some of the keyboard shortcuts : 
 
 'q' keyboard key disable the texture color 
