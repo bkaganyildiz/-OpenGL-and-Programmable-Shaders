@@ -16,7 +16,7 @@ tar -xzvf glm.tar.gz
 
 make 
 
-./hw3 <path of your image > 
+./hw3 "path of your image file"
 
 Some of the keyboard shortcuts : 
 
